@@ -5,49 +5,49 @@
 typedef struct link{
 	char adres[30];
 	int sayac;
-	struct link *next; // Doubly Linked List yapısına uyarlamak için ->next ve ->prev oluşturuyorum.
+	struct link *next; // Doubly Linked List yapÄ±sÄ±na uyarlamak iÃ§in ->next ve ->prev oluÅŸturuyorum.
 	struct link *prev;
 }node;
 
 node *head = NULL;
 
-node *olustur(char adres[30]){  // Her düğümü node *olustur fonksiyonu icinde oluşturup BasaEkle() fonksiyonuna yolluyorum..
-	node *yenidugum = (node *) malloc(sizeof(node));  // yollanan char icin bellekte yer acıyorum..
-	yenidugum->sayac = 1;  // ilk defa olusturuldugu icin sayac=1 olarak başlatıyorum..
+node *olustur(char adres[30]){  // Her dÃ¼ÄŸÃ¼mÃ¼ node *olustur fonksiyonu icinde oluÅŸturup BasaEkle() fonksiyonuna yolluyorum..
+	node *yenidugum = (node *) malloc(sizeof(node));  // yollanan char icin bellekte yer acÄ±yorum..
+	yenidugum->sayac = 1;  // ilk defa olusturuldugu icin sayac=1 olarak baÅŸlatÄ±yorum..
 	strcpy(yenidugum->adres,adres);  
-	yenidugum->next = NULL; // Her deger aldıgımda ilk deger gibi aldıgımdan dolayı ->next = NULL ve ->prev = NULL ataması yapıyorum.
+	yenidugum->next = NULL; // Her deger aldÄ±gÄ±mda ilk deger gibi aldÄ±gÄ±mdan dolayÄ± ->next = NULL ve ->prev = NULL atamasÄ± yapÄ±yorum.
 	yenidugum->prev = NULL;
 	return yenidugum;
 }
 
 void BasaEkle(char adres[30],int kapasite,int esik){
 	node *basaekle = olustur(adres);
-	if(head==NULL) // head nodu NULL ise boş demektir o zaman node *olustur() fonksiyonundan gelen bilgiyi head noduna ekliyorum.
+	if(head==NULL) // head nodu NULL ise boÅŸ demektir o zaman node *olustur() fonksiyonundan gelen bilgiyi head noduna ekliyorum.
 	{
 		head = basaekle;
 		return;
 	}
 	
-	int kontrol=0; // kontrol değişkeni koyma nedenim dosyadan gelen string bilginin linked list icinde olup olmadığını sorgulamak icin kullanacağım.
+	int kontrol=0; // kontrol deÄŸiÅŸkeni koyma nedenim dosyadan gelen string bilginin linked list icinde olup olmadÄ±ÄŸÄ±nÄ± sorgulamak icin kullanacaÄŸÄ±m.
 	node *current = head;
 	while(current!=NULL)
 	{
-		if (strcmp(current->adres,adres) == 0) // Dosyadan gelen deger linked list icinde varmı ? eğer var ise if bloğuna giriş yapacağız.
+		if (strcmp(current->adres,adres) == 0) // Dosyadan gelen deger linked list icinde varmÄ± ? eÄŸer var ise if bloÄŸuna giriÅŸ yapacaÄŸÄ±z.
 		{
-			if (current->sayac <esik || current->sayac >esik) // Gelen string'in sahip oldugu sayac eşik değerden düşük veya eşik değerden büyükse sadece sayacında arttırma olacak.
+			if (current->sayac <esik || current->sayac >esik) // Gelen string'in sahip oldugu sayac eÅŸik deÄŸerden dÃ¼ÅŸÃ¼k veya eÅŸik deÄŸerden bÃ¼yÃ¼kse sadece sayacÄ±nda arttÄ±rma olacak.
 			{
 				current->sayac++;
 				kontrol++;
 				return;
 			}
-			else // else durumunda ise geriye tek koşul kalıyo oda string'in gelen adres'e eşit olması.
+			else // else durumunda ise geriye tek koÅŸul kalÄ±yo oda string'in gelen adres'e eÅŸit olmasÄ±.
 			{
 				
-						if (current->prev == NULL){ // Önceki değer NULL ise o en baştaki elemandayız bu nedenle sayacını sadece arttırmamız yeterlidir.
+						if (current->prev == NULL){ // Ã–nceki deÄŸer NULL ise o en baÅŸtaki elemandayÄ±z bu nedenle sayacÄ±nÄ± sadece arttÄ±rmamÄ±z yeterlidir.
 							current->sayac++;
 							return;
 						}
-						if (current->next == NULL)  // Sondaki degerin next'i NULL ise o zaman sondaki elemandayız ve bunu başa alacağız...
+						if (current->next == NULL)  // Sondaki degerin next'i NULL ise o zaman sondaki elemandayÄ±z ve bunu baÅŸa alacaÄŸÄ±z...
 						{
 							current->sayac++;
 							node *onceki_kisim = current->prev;
@@ -65,8 +65,8 @@ void BasaEkle(char adres[30],int kapasite,int esik){
 						}
 						
 						
-						// Önceki iki if komutunda ilk baştaki node yada son durumdaki node'un olup olmadıgını sorguladık ve başta ise zaten başta kalacak sonda ise başa alacaktık.
-						//Eğer node başta ve sonda değilse tek seçenek geriye kalıyor oda node'un ortada olması.
+						// Ã–nceki iki if komutunda ilk baÅŸtaki node yada son durumdaki node'un olup olmadÄ±gÄ±nÄ± sorguladÄ±k ve baÅŸta ise zaten baÅŸta kalacak sonda ise baÅŸa alacaktÄ±k.
+						//EÄŸer node baÅŸta ve sonda deÄŸilse tek seÃ§enek geriye kalÄ±yor oda node'un ortada olmasÄ±.
 						current->sayac++;
 						node *onceki = current->prev;
 						node *sonraki = current->next;
@@ -89,17 +89,17 @@ void BasaEkle(char adres[30],int kapasite,int esik){
 			}
 	
 
-	if (kontrol == 0) // kontrol degiskeninin hala sıfır olması demek yani linked list icinde dosyadan gelen string ile eşleşen bir veri bulamadığı anlamına geliyor.
+	if (kontrol == 0) // kontrol degiskeninin hala sÄ±fÄ±r olmasÄ± demek yani linked list icinde dosyadan gelen string ile eÅŸleÅŸen bir veri bulamadÄ±ÄŸÄ± anlamÄ±na geliyor.
 	{
-		// KAPASİTE KONTROLÜ
+		// KAPASÄ°TE KONTROLÃœ
 		node *say = head;
 		int sayici=0;
-		while(say->next != NULL) // Listemizde ne kadar kutu var onu öğrenmek icin bir sayici degiskeni kullandık bunu kapasite kontrolünde kullanacağız.
+		while(say->next != NULL) // Listemizde ne kadar kutu var onu Ã¶ÄŸrenmek icin bir sayici degiskeni kullandÄ±k bunu kapasite kontrolÃ¼nde kullanacaÄŸÄ±z.
 		{
 			say = say->next;
 			sayici++;
 		}
-		if (sayici == kapasite){  // Listemizdeki kutular sayıldıktan sonra artık kullanıcının girdiği kapasite ile eşit olup olmadığını sorgulayabiliriz.
+		if (sayici == kapasite){  // Listemizdeki kutular sayÄ±ldÄ±ktan sonra artÄ±k kullanÄ±cÄ±nÄ±n girdiÄŸi kapasite ile eÅŸit olup olmadÄ±ÄŸÄ±nÄ± sorgulayabiliriz.
 			node *tempp = head;
 			while(tempp->next != NULL)
 			{
@@ -153,7 +153,7 @@ int main(){
 	int sayac=0;
 	FILE *fp; 
 	char buff[255];
-	switch(secim2){   // Burada switch kullanmamın sebebi; dosyadan mı adresleri çekeceğiz yoksa klavyeden adres mi gireceğiz tercihini kullanıcıya yaptırmak için.
+	switch(secim2){   // Burada switch kullanmamÄ±n sebebi; dosyadan mÄ± adresleri Ã§ekeceÄŸiz yoksa klavyeden adres mi gireceÄŸiz tercihini kullanÄ±cÄ±ya yaptÄ±rmak iÃ§in.
 		case 1: // CASE 1: Klavyeden girilecek.
 			printf("Kac string gireceksiniz : ");
 			scanf("%d",&n);
@@ -182,7 +182,7 @@ int main(){
 	}
 	printf("\n\n Cache Buffer'i Temizlemek istiyormusunuz ?\n \t(1-EVET)\t(2-HAYIR) \n\n");
 	scanf("%d",&secim);
-	switch (secim) // Kullanıcının Cache Buffer'i silebilmesine olanak tanımak için yeniden bir seçim yaptırdım.
+	switch (secim) // KullanÄ±cÄ±nÄ±n Cache Buffer'i silebilmesine olanak tanÄ±mak iÃ§in yeniden bir seÃ§im yaptÄ±rdÄ±m.
 	{              
 		case 1: printf("\n\n ******SILINIYOR*****\n\n");
 				int j;
