@@ -1,0 +1,363 @@
+1/a/dokuman.txt yeni.txt 
+551564/tristique,/yeni.txt 
+20430/tortor./yeni.txt 
+6/ac/dokuman.txt yeni.txt 
+4488/neque./yeni.txt 
+18959/Quisque/dokuman.txt yeni.txt 
+4006/mattis/dokuman.txt yeni.txt 
+21/a./yeni.txt 
+23/at/dokuman.txt yeni.txt 
+42895/pharetra/dokuman.txt yeni.txt 
+4015/Mauris/dokuman.txt yeni.txt 
+612189/consectetur/dokuman.txt yeni.txt 
+35/et/dokuman.txt yeni.txt 
+36/eu/dokuman.txt yeni.txt 
+38/ac,/yeni.txt 
+39/ex/dokuman.txt yeni.txt 
+41/in/dokuman.txt yeni.txt 
+17989/sodales/dokuman.txt yeni.txt 
+2038/dictum/dokuman.txt yeni.txt 
+1042/Etiam/dokuman.txt yeni.txt 
+186486/suscipit./yeni.txt 
+48/mi/dokuman.txt yeni.txt 
+473627/porttitor,/yeni.txt 
+55885/dignissim/dokuman.txt yeni.txt 
+2010/quam./yeni.txt 
+133656/placerat./yeni.txt 
+2012/quam,/yeni.txt 
+8038/finibus/dokuman.txt yeni.txt 
+31/id/dokuman.txt yeni.txt 
+306143/imperdiet,/yeni.txt 
+4060/ligula/dokuman.txt yeni.txt 
+36966/bibendum./yeni.txt 
+2072/velit/dokuman.txt yeni.txt 
+36968/bibendum,/yeni.txt 
+82/dis/dokuman.txt yeni.txt 
+83/Ut/dokuman.txt yeni.txt 
+87/at./yeni.txt 
+89/at,/yeni.txt 
+128703/pharetra./yeni.txt 
+1088/Aenean/dokuman.txt yeni.txt 
+66892/elementum/dokuman.txt yeni.txt 
+6076/varius/dokuman.txt yeni.txt 
+11010/lectus./yeni.txt 
+12063/mauris./yeni.txt 
+12065/mauris,/yeni.txt 
+11012/lectus,/yeni.txt 
+1101/eros./yeni.txt 
+1103/eros,/yeni.txt 
+108/dui/dokuman.txt yeni.txt 
+3471665/Pellentesque/dokuman.txt yeni.txt 
+5038/Aliquam/dokuman.txt yeni.txt 
+2107/purus/dokuman.txt yeni.txt 
+9527/cursus,/yeni.txt 
+122/est/dokuman.txt yeni.txt 
+128737/Phasellus/dokuman.txt yeni.txt 
+125/et,/yeni.txt 
+126/eu./yeni.txt 
+128/eu,/yeni.txt 
+135/ex./yeni.txt 
+138/leo/dokuman.txt yeni.txt 
+5550/semper/dokuman.txt yeni.txt 
+12106/maximus/dokuman.txt yeni.txt 
+143/in,/yeni.txt 
+144/nec/dokuman.txt yeni.txt 
+1567/Lorem/dokuman.txt yeni.txt 
+53985/sodales./yeni.txt 
+53987/sodales,/yeni.txt 
+5057/aliquet/dokuman.txt yeni.txt 
+118794/lobortis./yeni.txt 
+118796/lobortis,/yeni.txt 
+5558/nulla,/yeni.txt 
+12036/mattis./yeni.txt 
+162/mi./yeni.txt 
+164/mi,/yeni.txt 
+719/eget,/yeni.txt 
+167673/dignissim./yeni.txt 
+3169/cursus/dokuman.txt yeni.txt 
+179/amet/dokuman.txt yeni.txt 
+588/sed./yeni.txt 
+185/non/dokuman.txt yeni.txt 
+10156/euismod/dokuman.txt yeni.txt 
+202881/fermentum./yeni.txt 
+142095/facilisis./yeni.txt 
+1186/magna/dokuman.txt yeni.txt 
+190/sed/dokuman.txt yeni.txt 
+17140/pretium/dokuman.txt yeni.txt 
+10415013/pellentesque./yeni.txt 
+199/sem/dokuman.txt yeni.txt 
+159723/efficitur./yeni.txt 
+24132/finibus./yeni.txt 
+205/diam/dokuman.txt yeni.txt 
+24134/finibus,/yeni.txt 
+17544/tempus./yeni.txt 
+2100/quis./yeni.txt 
+218/sit/dokuman.txt yeni.txt 
+2213/vitae/dokuman.txt yeni.txt 
+551562/tristique./yeni.txt 
+111/id./yeni.txt 
+1108/lacus/dokuman.txt yeni.txt 
+225/vel/dokuman.txt yeni.txt 
+113/id,/yeni.txt 
+233/eget/dokuman.txt yeni.txt 
+12198/ligula./yeni.txt 
+15191/aliquet,/yeni.txt 
+51438/pretium./yeni.txt 
+1238/Fusce/dokuman.txt yeni.txt 
+20051/habitant/dokuman.txt yeni.txt 
+22047/accumsan./yeni.txt 
+6234/velit./yeni.txt 
+4242/ipsum./yeni.txt 
+5240/sapien/dokuman.txt yeni.txt 
+4244/ipsum,/yeni.txt 
+7237/turpis/dokuman.txt yeni.txt 
+265/Cras/dokuman.txt yeni.txt 
+488796/tincidunt./yeni.txt 
+267/ut./yeni.txt 
+488798/tincidunt,/yeni.txt 
+269/ut,/yeni.txt 
+1249511/scelerisque/dokuman.txt yeni.txt 
+2268/auctor/dokuman.txt yeni.txt 
+10246/gravida/dokuman.txt yeni.txt 
+22212/commodo./yeni.txt 
+22214/commodo,/yeni.txt 
+142/Nam/dokuman.txt yeni.txt 
+290/elit/dokuman.txt yeni.txt 
+20233/Vivamus/dokuman.txt yeni.txt 
+200694/elementum./yeni.txt 
+18246/varius./yeni.txt 
+301/enim/dokuman.txt yeni.txt 
+18248/varius,/yeni.txt 
+6132/dictum./yeni.txt 
+17259/potenti/dokuman.txt  
+1309/massa/dokuman.txt yeni.txt 
+143884/ridiculus/dokuman.txt yeni.txt 
+320/erat/dokuman.txt yeni.txt 
+2102/quis,/yeni.txt 
+2334/urna./yeni.txt 
+62156/suscipit/dokuman.txt yeni.txt 
+343/Duis/dokuman.txt yeni.txt 
+344/dui,/yeni.txt 
+102041/imperdiet/dokuman.txt yeni.txt 
+2343/felis./yeni.txt 
+3342/lacus./yeni.txt 
+12316/bibendum/dokuman.txt yeni.txt 
+3344/lacus,/yeni.txt 
+675/arcu./yeni.txt 
+6341/purus,/yeni.txt 
+361/eros/dokuman.txt yeni.txt 
+2357/augue,/yeni.txt 
+7343/accumsan/dokuman.txt yeni.txt 
+15132/aliquam./yeni.txt 
+4368/metus./yeni.txt 
+4370/metus,/yeni.txt 
+384/est./yeni.txt 
+386/est,/yeni.txt 
+551730/ultricies./yeni.txt 
+551732/ultricies,/yeni.txt 
+53235/efficitur/dokuman.txt yeni.txt 
+14412/dapibus./yeni.txt 
+7377/congue./yeni.txt 
+183848/tristique/dokuman.txt yeni.txt 
+17355/tellus./yeni.txt 
+1408/ipsum/dokuman.txt yeni.txt 
+162926/tincidunt/dokuman.txt yeni.txt 
+1467/odio./yeni.txt 
+20359/viverra/dokuman.txt yeni.txt 
+21731/turpis,/yeni.txt 
+205815/convallis./yeni.txt 
+434/leo,/yeni.txt 
+219/arcu/dokuman.txt yeni.txt 
+1437/nibh./yeni.txt 
+1439/nibh,/yeni.txt 
+36336/maximus./yeni.txt 
+36338/maximus,/yeni.txt 
+450/nec./yeni.txt 
+452/nec,/yeni.txt 
+1450/metus/dokuman.txt yeni.txt 
+81211/adipiscing/dokuman.txt yeni.txt 
+183904/ultricies/dokuman.txt yeni.txt 
+2453/congue/dokuman.txt yeni.txt 
+183909/ultrices./yeni.txt 
+183911/ultrices,/yeni.txt 
+4719/lorem./yeni.txt 
+50322/rhoncus./yeni.txt 
+473/nibh/dokuman.txt yeni.txt 
+19418/egestas,/yeni.txt 
+61297/ultrices/dokuman.txt yeni.txt 
+483/odio/dokuman.txt yeni.txt 
+6466/egestas/dokuman.txt yeni.txt 
+1575210/vestibulum./yeni.txt 
+11457/libero./yeni.txt 
+11459/libero,/yeni.txt 
+1490/neque/dokuman.txt yeni.txt 
+382346/parturient/dokuman.txt yeni.txt 
+47358/facilisi./yeni.txt 
+47359/facilisis/dokuman.txt yeni.txt 
+583753/condimentum/dokuman.txt yeni.txt 
+52575/posuere./yeni.txt 
+20432/tortor,/yeni.txt 
+142097/facilisis,/yeni.txt 
+525/nisi/dokuman.txt yeni.txt 
+167675/dignissim,/yeni.txt 
+528/nisl/dokuman.txt yeni.txt 
+49382/Praesent/dokuman.txt yeni.txt 
+1531/netus/dokuman.txt yeni.txt 
+4889/justo,/yeni.txt 
+17487/tempor./yeni.txt 
+43412/molestie/dokuman.txt yeni.txt 
+55389/pulvinar/dokuman.txt yeni.txt 
+555/amet./yeni.txt 
+557/amet,/yeni.txt 
+5549/ornare/dokuman.txt yeni.txt 
+64373/volutpat/dokuman.txt yeni.txt 
+5551/Nullam/dokuman.txt yeni.txt 
+17519/posuere/dokuman.txt yeni.txt 
+5556/nulla./yeni.txt 
+573/non./yeni.txt 
+575/non,/yeni.txt 
+585/orci/dokuman.txt yeni.txt 
+3578/magna,/yeni.txt 
+49348/senectus/dokuman.txt yeni.txt 
+168085/venenatis/dokuman.txt yeni.txt 
+590/sed,/yeni.txt 
+68387/consequat/dokuman.txt yeni.txt 
+51440/pretium,/yeni.txt 
+4592777/sollicitudin/dokuman.txt yeni.txt 
+1593/nisi./yeni.txt 
+19540/faucibus/dokuman.txt yeni.txt 
+1595/nisi,/yeni.txt 
+7583/feugiat/dokuman.txt yeni.txt 
+30756/gravida./yeni.txt 
+1604/nisl,/yeni.txt 
+3601/magnis/dokuman.txt yeni.txt 
+612/nunc/dokuman.txt yeni.txt 
+45478/sagittis/dokuman.txt yeni.txt 
+615/sem./yeni.txt 
+14574/mollis./yeni.txt 
+617/sem,/yeni.txt 
+14576/mollis,/yeni.txt 
+1623/justo/dokuman.txt yeni.txt 
+298731/malesuada./yeni.txt 
+193137/volutpat./yeni.txt 
+298733/malesuada,/yeni.txt 
+76403/hendrerit/dokuman.txt yeni.txt 
+633/diam./yeni.txt 
+14766/blandit./yeni.txt 
+635/diam,/yeni.txt 
+1635/Morbi/dokuman.txt yeni.txt 
+525064/Vestibulum/dokuman.txt yeni.txt 
+130254/molestie./yeni.txt 
+3813/libero/dokuman.txt yeni.txt 
+9631/lacinia/dokuman.txt yeni.txt 
+664/quam/dokuman.txt yeni.txt 
+672/ante./yeni.txt 
+3664/lectus/dokuman.txt yeni.txt 
+674/ante,/yeni.txt 
+6657/vitae./yeni.txt 
+6659/vitae,/yeni.txt 
+44546/placerat/dokuman.txt yeni.txt 
+615678/vulputate./yeni.txt 
+166185/pulvinar./yeni.txt 
+342/dui./yeni.txt 
+2336/urna,/yeni.txt 
+693/vel./yeni.txt 
+694/quis/dokuman.txt yeni.txt 
+22769/feugiat,/yeni.txt 
+2345/felis,/yeni.txt 
+128323/penatibus/dokuman.txt yeni.txt 
+39592/lobortis/dokuman.txt yeni.txt 
+36603/nascetur/dokuman.txt yeni.txt 
+67621/fermentum/dokuman.txt yeni.txt 
+16668/semper./yeni.txt 
+717/eget./yeni.txt 
+193139/volutpat,/yeni.txt 
+1854/nunc./yeni.txt 
+2718/dolor./yeni.txt 
+2355/augue./yeni.txt 
+2720/dolor,/yeni.txt 
+164237/vehicula,/yeni.txt 
+12695/natoque/dokuman.txt yeni.txt 
+4721/lorem,/yeni.txt 
+432/leo./yeni.txt 
+35752/interdum/dokuman.txt yeni.txt 
+3576/magna./yeni.txt 
+5752/primis/dokuman.txt yeni.txt 
+772/urna/dokuman.txt yeni.txt 
+775/felis/dokuman.txt yeni.txt 
+1773/orci./yeni.txt 
+268970/fringilla,/yeni.txt 
+779/augue/dokuman.txt yeni.txt 
+15738/sapien./yeni.txt 
+15740/sapien,/yeni.txt 
+7768/iaculis/dokuman.txt yeni.txt 
+21729/turpis./yeni.txt 
+5779/tellus/dokuman.txt yeni.txt 
+205179/consequat./yeni.txt 
+10772/laoreet/dokuman.txt yeni.txt 
+68599/convallis/dokuman.txt yeni.txt 
+5790/porta./yeni.txt 
+13778349/sollicitudin./yeni.txt 
+5792/porta,/yeni.txt 
+7379/congue,/yeni.txt 
+4798/dapibus/dokuman.txt yeni.txt 
+58638/faucibus./yeni.txt 
+58640/faucibus,/yeni.txt 
+16768/rhoncus/dokuman.txt yeni.txt 
+6804/tortor/dokuman.txt yeni.txt 
+268968/fringilla./yeni.txt 
+15780/facilisi/dokuman.txt  
+3748551/scelerisque./yeni.txt 
+22767/feugiat./yeni.txt 
+205220/vulputate/dokuman.txt yeni.txt 
+5823/tempor/dokuman.txt yeni.txt 
+6822/auctor./yeni.txt 
+6824/auctor,/yeni.txt 
+157869/porttitor/dokuman.txt yeni.txt 
+7398/commodo/dokuman.txt yeni.txt 
+11814/Integer/dokuman.txt yeni.txt 
+30758/gravida,/yeni.txt 
+1846/Nulla/dokuman.txt yeni.txt 
+7831/cubilia/dokuman.txt yeni.txt 
+65658/eleifend./yeni.txt 
+5842/tempus/dokuman.txt yeni.txt 
+136452/sagittis./yeni.txt 
+4852/mollis/dokuman.txt yeni.txt 
+4707702/ullamcorper./yeni.txt 
+99571/malesuada/dokuman.txt yeni.txt 
+6853/rutrum/dokuman.txt yeni.txt 
+873/Donec/dokuman.txt yeni.txt 
+79641/Curabitur/dokuman.txt yeni.txt 
+888/elit./yeni.txt 
+890/elit,/yeni.txt 
+1702772/Suspendisse/dokuman.txt yeni.txt 
+5880/risus./yeni.txt 
+900/dolor/dokuman.txt yeni.txt 
+54739/vehicula/dokuman.txt yeni.txt 
+229227/hendrerit./yeni.txt 
+89650/fringilla/dokuman.txt yeni.txt 
+921/enim./yeni.txt 
+923/enim,/yeni.txt 
+1924/porta/dokuman.txt yeni.txt 
+4916/blandit/dokuman.txt yeni.txt 
+14918/montes,/yeni.txt 
+14898/luctus./yeni.txt 
+14900/luctus,/yeni.txt 
+21880/eleifend/dokuman.txt yeni.txt 
+1469/odio,/yeni.txt 
+1569228/ullamcorper/dokuman.txt yeni.txt 
+51795/potenti./yeni.txt 
+2945/curae;/yeni.txt 
+3945/massa./yeni.txt 
+3947/massa,/yeni.txt 
+1954/risus/dokuman.txt yeni.txt 
+978/erat./yeni.txt 
+1958/Proin/dokuman.txt yeni.txt 
+19416/egestas./yeni.txt 
+4960/luctus/dokuman.txt yeni.txt 
+4966/montes/dokuman.txt  
+980/curae/dokuman.txt  
+12200/ligula,/yeni.txt 
+30901/Maecenas/dokuman.txt yeni.txt 
+28911/lacinia./yeni.txt 
+ Load Factor  = 0.4
